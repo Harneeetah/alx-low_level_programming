@@ -3,7 +3,9 @@
 
 /**
  * _islower - returns 1 if char is lowercase
- * @ c - character checked if its in lower case or not, returns int type as well. 
+ *
+ * @ c: character checked if its in lower case or not, returns int type as well.
+ *
  * Return: 1 if lower case, 0 otherwise
  **/
 
