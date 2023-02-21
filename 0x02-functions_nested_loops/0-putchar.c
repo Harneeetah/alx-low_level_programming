@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
- * main - Prints _putchar and a newline
+ * main - Prints _putchar
  *
- * Description: Prints _putchar
+ * Description: Prints _putchar in newline
  *
  * Return: 0 for success
 */
@@ -18,4 +19,4 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-}	
+}
