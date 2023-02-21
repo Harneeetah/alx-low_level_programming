@@ -1,14 +1,13 @@
-#include <stdio>
+#include <stdio.h>
 
 /**
- * main - Prints _putchar
+ * main - Prints _putchar on a newline
  *
- * Description: Prints _putchar followed by a newline
+ * Return: zero on success
  *
- * Return: 0 for success
-*/
+ */
 int main(void)
 {
-printf("_putchar,\n");
-	return (0);
+        printf("_putchar,\n");
+        return (0);
 }
