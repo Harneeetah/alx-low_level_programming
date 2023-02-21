@@ -4,7 +4,7 @@
 
 /**
  * main - Prints alphabet
- * 
+ *
  * Description: Prints the alphabet in reverse order
  * Can only use putchar
  *
