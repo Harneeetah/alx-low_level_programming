@@ -19,7 +19,7 @@ void print_alphabet(void)
 }
 
 /**
- * prints alphabet_x10 - prints 10 times
+ * print_alphabet_x10 - prints 10 times
  *
  **/
 void print_alphabet_x10(void)
