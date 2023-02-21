@@ -1,12 +1,14 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+
 /**
  * main - Prints alphabet
- * 
- * Description: Prints the alphabet in lower case but
- * Skips q and e
+ *
+ * Description: Prints all the alphabets in lower case but,
+ * Skip q and e
  * Can only use putchar
+ *
  * Return: 0 for success
 */
 int main(void)
