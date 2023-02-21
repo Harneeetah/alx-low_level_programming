@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
+/* Main : Determining whether a number is positive,negative or zero*/
 
 /* betty style doc for function main goes there */
 int main(void)
@@ -24,5 +24,4 @@ int main(void)
         }
         return (0);
 }
-	return (0);
-}
+
