@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - causes an infinite loo
  *
@@ -11,8 +10,9 @@ int main(void)
 	int i;
 
 	printf("Infinite loop incoming :(\n");
-/**	i = 0;
-*  printf "\n" - prints output in newline
+/**
+ *  printf "\n" - prints output in newline
+* i = 0;
 *	while (i < 10)
 *	{
 *                putchar(i);
